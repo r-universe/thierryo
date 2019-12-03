@@ -6,6 +6,12 @@
     "from": "INBOmd"
   },
   {
+    "package": "INLA",
+    "url": "https://github.com/inbo/INLA",
+    "via": ["inlatools"],
+    "from": "inlatools"
+  },
+  {
     "package": "codemetar",
     "url": "https://github.com/ropensci/codemetar",
     "via": ["checklist"],
