@@ -12,6 +12,12 @@
     "from": "inlatools"
   },
   {
+    "package": "INLA",
+    "url": "https://github.com/inbo/INLA",
+    "via": ["multimput"],
+    "from": "multimput"
+  },
+  {
     "package": "codemetar",
     "url": "https://github.com/ropensci/codemetar",
     "via": ["checklist"],
