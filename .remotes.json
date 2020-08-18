@@ -1,5 +1,11 @@
 [
   {
+    "package": "INBOtheme",
+    "url": "https://github.com/inbo/INBOtheme",
+    "via": ["INBOmd"],
+    "from": "INBOmd"
+  },
+  {
     "package": "codemetar",
     "url": "https://github.com/ropensci/codemetar",
     "via": ["checklist"],
@@ -8,7 +14,19 @@
   {
     "package": "colorblindr",
     "url": "https://github.com/clauswilke/colorblindr",
+    "via": ["INBOmd", "INBOtheme"],
+    "from": "INBOmd"
+  },
+  {
+    "package": "colorblindr",
+    "url": "https://github.com/clauswilke/colorblindr",
     "via": ["INBOtheme"],
     "from": "INBOtheme"
+  },
+  {
+    "package": "qrcode",
+    "url": "https://github.com/thierryo/qrcode",
+    "via": ["INBOmd"],
+    "from": "INBOmd"
   }
 ]
