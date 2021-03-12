@@ -36,6 +36,18 @@
     "from": "INBOtheme"
   },
   {
+    "package": "colorblindr",
+    "url": "https://github.com/clauswilke/colorblindr",
+    "via": ["ladybird", "INBOtheme"],
+    "from": "ladybird"
+  },
+  {
+    "package": "inbotheme",
+    "url": "https://github.com/inbo/inbotheme",
+    "via": ["ladybird"],
+    "from": "ladybird"
+  },
+  {
     "package": "qrcode",
     "url": "https://github.com/thierryo/qrcode",
     "via": ["INBOmd"],
