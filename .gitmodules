@@ -78,8 +78,3 @@
 	url = https://github.com/clauswilke/colorblindr
 	shallow = true
 	registered = false
-[submodule "inbotheme"]
-	path = inbotheme
-	url = https://github.com/inbo/inbotheme
-	shallow = true
-	registered = false
