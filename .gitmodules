@@ -58,3 +58,8 @@
 	url = https://github.com/inbo/territoria
 	shallow = true
 	registered = true
+[submodule "codemetar"]
+	path = codemetar
+	url = https://github.com/ropensci/codemetar
+	shallow = true
+	registered = false
