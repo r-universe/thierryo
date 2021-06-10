@@ -63,3 +63,8 @@
 	url = https://github.com/ropensci/codemetar
 	shallow = true
 	registered = false
+[submodule "colorblindr"]
+	path = colorblindr
+	url = https://github.com/clauswilke/colorblindr
+	shallow = true
+	registered = false
