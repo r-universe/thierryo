@@ -1,5 +1,60 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/thierryo/universe
 	shallow = true
 	branch = HEAD
+[submodule "checklist"]
+	path = checklist
+	url = https://github.com/inbo/checklist
+	shallow = true
+	registered = true
+[submodule "digest"]
+	path = digest
+	url = https://github.com/eddelbuettel/digest
+	shallow = true
+	registered = true
+[submodule "git2rdata"]
+	path = git2rdata
+	url = https://github.com/ropensci/git2rdata
+	shallow = true
+	registered = true
+[submodule "grtsdb"]
+	path = grtsdb
+	url = https://github.com/inbo/grtsdb
+	shallow = true
+	registered = true
+[submodule "INBOtheme"]
+	path = INBOtheme
+	url = https://github.com/inbo/inbotheme
+	shallow = true
+	registered = true
+[submodule "INBOmd"]
+	path = INBOmd
+	url = https://github.com/inbo/inbomd
+	shallow = true
+	registered = true
+[submodule "inlatools"]
+	path = inlatools
+	url = https://github.com/inbo/inlatools
+	shallow = true
+	registered = true
+[submodule "multimput"]
+	path = multimput
+	url = https://github.com/inbo/multimput
+	shallow = true
+	registered = true
+[submodule "qrcode"]
+	path = qrcode
+	url = https://github.com/ThierryO/qrcode
+	shallow = true
+	registered = true
+[submodule "rticles"]
+	path = rticles
+	url = https://github.com/rstudio/rticles
+	shallow = true
+	registered = true
+[submodule "territoria"]
+	path = territoria
+	url = https://github.com/inbo/territoria
+	shallow = true
+	registered = true

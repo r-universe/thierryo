@@ -1,0 +1,39 @@
+[
+  {
+    "package": "checklist"
+  },
+  {
+    "package": "digest",
+    "oncran": true
+  },
+  {
+    "package": "git2rdata",
+    "oncran": true
+  },
+  {
+    "package": "grtsdb"
+  },
+  {
+    "package": "INBOtheme"
+  },
+  {
+    "package": "INBOmd"
+  },
+  {
+    "package": "inlatools"
+  },
+  {
+    "package": "multimput"
+  },
+  {
+    "package": "qrcode",
+    "oncran": true
+  },
+  {
+    "package": "rticles",
+    "oncran": true
+  },
+  {
+    "package": "territoria"
+  }
+]
