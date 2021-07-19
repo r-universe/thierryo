@@ -18,12 +18,6 @@
     "from": "multimput"
   },
   {
-    "package": "codemetar",
-    "url": "https://github.com/ropensci/codemetar",
-    "via": ["checklist"],
-    "from": "checklist"
-  },
-  {
     "package": "colorblindr",
     "url": "https://github.com/clauswilke/colorblindr",
     "via": ["INBOmd", "INBOtheme"],
