@@ -1,11 +1,5 @@
 [
   {
-    "package": "INBOtheme",
-    "url": "https://github.com/inbo/INBOtheme",
-    "via": ["INBOmd"],
-    "from": "INBOmd"
-  },
-  {
     "package": "INLA",
     "url": "https://github.com/inbo/INLA",
     "via": ["inlatools"],
@@ -16,12 +10,6 @@
     "url": "https://github.com/inbo/INLA",
     "via": ["multimput"],
     "from": "multimput"
-  },
-  {
-    "package": "colorblindr",
-    "url": "https://github.com/clauswilke/colorblindr",
-    "via": ["INBOmd", "INBOtheme"],
-    "from": "INBOmd"
   },
   {
     "package": "colorblindr",
@@ -40,11 +28,5 @@
     "url": "https://github.com/inbo/inbotheme",
     "via": ["ladybird"],
     "from": "ladybird"
-  },
-  {
-    "package": "qrcode",
-    "url": "https://github.com/thierryo/qrcode",
-    "via": ["INBOmd"],
-    "from": "INBOmd"
   }
 ]
