@@ -28,9 +28,29 @@
 	url = https://github.com/inbo/grtsdb
 	shallow = true
 	registered = true
+[submodule "ladybird"]
+	path = ladybird
+	url = https://github.com/inbo/ladybird
+	shallow = true
+	registered = true
 [submodule "INBOmd"]
 	path = INBOmd
 	url = https://github.com/inbo/inbomd
+	shallow = true
+	registered = true
+[submodule "INBOtheme"]
+	path = INBOtheme
+	url = https://github.com/inbo/inbotheme
+	shallow = true
+	registered = true
+[submodule "inlatools"]
+	path = inlatools
+	url = https://github.com/inbo/inlatools
+	shallow = true
+	registered = true
+[submodule "multimput"]
+	path = multimput
+	url = https://github.com/inbo/multimput
 	shallow = true
 	registered = true
 [submodule "qrcode"]
