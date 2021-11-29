@@ -28,5 +28,11 @@
     "url": "https://github.com/clauswilke/colorblindr",
     "via": ["ladybird", "INBOtheme"],
     "from": "ladybird"
+  },
+  {
+    "package": "lintr",
+    "url": "https://github.com/jimhester/lintr",
+    "via": ["checklist"],
+    "from": "checklist"
   }
 ]

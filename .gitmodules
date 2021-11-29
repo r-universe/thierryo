@@ -78,3 +78,8 @@
 	url = https://github.com/clauswilke/colorblindr
 	shallow = true
 	registered = false
+[submodule "lintr"]
+	path = lintr
+	url = https://github.com/jimhester/lintr
+	shallow = true
+	registered = false
