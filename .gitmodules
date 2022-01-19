@@ -80,6 +80,6 @@
 	registered = false
 [submodule "lintr"]
 	path = lintr
-	url = https://github.com/jimhester/lintr
+	url = https://github.com/r-lib/lintr
 	shallow = true
 	registered = false
