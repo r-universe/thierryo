@@ -12,12 +12,6 @@
     "from": "inlatools"
   },
   {
-    "package": "INLA",
-    "url": "https://github.com/inbo/INLA",
-    "via": ["multimput"],
-    "from": "multimput"
-  },
-  {
     "package": "colorblindr",
     "url": "https://github.com/clauswilke/colorblindr",
     "via": ["INBOtheme"],
