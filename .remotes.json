@@ -8,12 +8,6 @@
   {
     "package": "colorblindr",
     "url": "https://github.com/clauswilke/colorblindr",
-    "via": ["INBOtheme"],
-    "from": "INBOtheme"
-  },
-  {
-    "package": "colorblindr",
-    "url": "https://github.com/clauswilke/colorblindr",
     "via": ["ladybird", "INBOtheme"],
     "from": "ladybird"
   }
