@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/thierryo/universe
+	url = https://github.com/thierryo/thierryo.r-universe.dev
 	branch = HEAD
 [submodule "INBOmd"]
 	path = INBOmd
